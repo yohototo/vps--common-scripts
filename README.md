@@ -3,7 +3,7 @@
 
 1.测试脚本
 -- 
-`wget -qO- bench.sh | bash`  
+```wget -qO- bench.sh | bash```  
 或者  
 `curl -Lso- bench.sh | bash`  
 综合工具箱  
