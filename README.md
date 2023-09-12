@@ -2,10 +2,10 @@
 （新手向）常用的vpn配置脚本和测试脚本Commonly used VPN configuration scripts and test scripts  
 
 1.测试脚本
---
-wget -qO- bench.sh | bash  
+-- 
+'wget -qO- bench.sh | bash'  
 或者
-curl -Lso- bench.sh | bash  
+'curl -Lso- bench.sh | bash'  
 综合工具箱
 --
 wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/box.sh && chmod +x box.sh && clear && ./box.sh
