@@ -27,7 +27,7 @@ BBR脚本
 ## 2.VPN搭建  
 Make-A xray脚本  
 [八合一]https://github.com/mack-a/v2ray-agent  （DD脚本）  
-`wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh`  
+`wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh`    
 `wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/reeceyng/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh`  
 ipv6  
 `wget -N https://gitlab.com/rwkgyg/v2ray-agent/raw/master/install.sh && bash install.sh`  
