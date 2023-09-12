@@ -6,7 +6,7 @@
 ```wget -qO- bench.sh | bash```  
 或者  
 `curl -Lso- bench.sh | bash`  
-综合工具箱  
+##综合工具箱  
 ```wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/box.sh && chmod +x box.sh && clear && ./box.sh```  
 ARM版本  
 `wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/armbox.sh && chmod +x box.sh && clear && ./box.sh`  
