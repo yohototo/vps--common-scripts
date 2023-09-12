@@ -3,8 +3,8 @@
 
 1.测试脚本
 -- 
-`wget -qO- bench.sh | bash` 
-或者 
+`wget -qO- bench.sh | bash`  
+或者  
 `curl -Lso- bench.sh | bash`  
 综合工具箱  
 `wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/box.sh && chmod +x box.sh && clear && ./box.sh`  
