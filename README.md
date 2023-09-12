@@ -44,8 +44,8 @@ hy脚本
 [hyteria]  https://www.v2rayssr.com/hysteria.html  
 `bash <(curl -fsSL https://git.io/hysteria.sh)`
 
-本地证书申请
-wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/acme-script/main/acme.sh && bash acme.sh
+本地证书申请  
+`wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/acme-script/main/acme.sh && bash acme.sh`  
 
 TUIC  
 `wget -N https://gitlab.com/rwkgyg/tuic-yg/raw/main/tuic.sh && bash tuic.sh`  
@@ -55,7 +55,7 @@ naive
 `wget -N https://gitlab.com/rwkgyg/naiveproxy-yg/raw/main/naiveproxy.sh && bash naiveproxy.sh`  
 
 ## 3.warp  
-[一键WARP脚本]  https://gitlab.com/rwkgyg/CFwarp
+[一键WARP脚本]  https://gitlab.com/rwkgyg/CFwarp  
 `wget -N --no-check-certificate https://gitlab.com/rwkgyg/cfwarp/raw/main/CFwarp.sh && bash CFwarp.sh`  
 
 
