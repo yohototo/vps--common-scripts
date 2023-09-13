@@ -76,7 +76,7 @@ warp-Go
 `sh bt-uninstall.sh`  
 
 修改root密码  
-```javascript
+``javascript data-lang="java"
 passwd root  
 
 ```javascript data-lang="java"
