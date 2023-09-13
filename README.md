@@ -79,11 +79,5 @@ warp-Go
 `passwd root`  
 
 ```javascript data-lang="java"
-public class Main {
-    public static void main(String[] args) {
-        String command = "cd /";
-        System.out.println(command);
-    }
-}
-
+123
 
