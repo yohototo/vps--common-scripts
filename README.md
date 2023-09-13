@@ -78,6 +78,6 @@ warp-Go
 修改root密码  
 `passwd root`  
 
-```javascript data-lang="java"123
+```javascript data-lang="java"123`
 
 
