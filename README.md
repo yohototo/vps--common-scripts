@@ -64,7 +64,8 @@ naive
  - 日常维护 warp
 
 warp-Go  
-`wget -N https://raw.githubusercontent.com/fscarmen/warp/main/warp-go.sh && bash warp-go.sh`  
+```javascript data-lang="java"  
+wget -N https://raw.githubusercontent.com/fscarmen/warp/main/warp-go.sh && bash warp-go.sh`  
 
 
 甲骨文保活  
