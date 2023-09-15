@@ -36,7 +36,7 @@ ipv6
 ```
 wget --no-cache -O lkl-haproxy.sh https://github.com/mzz2017/lkl-haproxy/raw/master/lkl-haproxy.sh && bash lkl-haproxy.sh
 ```  
-ovzbbrhttps://github.com/tcp-nanqinlang/wiki/wiki/lkl-haproxy
+ovzbbr[https://github.com/tcp-nanqinlang/wiki/wiki/lkl-haproxy]
 
 X-UI安装脚本  
 `bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)`  
