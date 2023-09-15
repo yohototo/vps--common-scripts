@@ -33,8 +33,10 @@ ipv6
 `wget -N https://gitlab.com/rwkgyg/v2ray-agent/raw/master/install.sh && bash install.sh`  
 
 魔改BBR（openVZ）  
-`wget --no-cache -O lkl-haproxy.sh https://github.com/mzz2017/lkl-haproxy/raw/master/lkl-haproxy.sh && bash lkl-haproxy.sh`  
-[ovzbbr]https://github.com/tcp-nanqinlang/wiki/wiki/lkl-haproxy
+```
+wget --no-cache -O lkl-haproxy.sh https://github.com/mzz2017/lkl-haproxy/raw/master/lkl-haproxy.sh && bash lkl-haproxy.sh
+```  
+ovzbbrhttps://github.com/tcp-nanqinlang/wiki/wiki/lkl-haproxy
 
 X-UI安装脚本  
 `bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)`  
