@@ -70,7 +70,8 @@ wget -N https://raw.githubusercontent.com/fscarmen/warp/main/warp-go.sh && bash 
 
 甲骨文保活  
 ```javascript data-lang="java"  
-curl -L https://gitlab.com/spiritysdx/Oracle-server-keep-alive-script/-/raw/main/oalive.sh -o oalive.sh && chmod +x oalive.sh && bash oalive.sh`  ```
+curl -L https://gitlab.com/spiritysdx/Oracle-server-keep-alive-script/-/raw/main/oalive.sh -o oalive.sh && chmod +x oalive.sh && bash oalive.sh`
+```
 
 宝塔卸载脚本  
 `wget http://download.bt.cn/install/bt-uninstall.sh`  
