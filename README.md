@@ -106,6 +106,7 @@ sh bt-uninstall.sh
 ```javascript data-lang="java"
 passwd root
 ```
+  
 1. [百度一下]
 
 [百度一下]:https://www.baidu.com 
