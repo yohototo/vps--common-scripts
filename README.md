@@ -107,7 +107,7 @@ sh bt-uninstall.sh
 passwd root
 ```  
 
-1: 百度一下 [1]
+1. 百度一下 [1]
 
 [1]:www.baidu.com
 
