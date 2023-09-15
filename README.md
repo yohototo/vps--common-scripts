@@ -66,7 +66,7 @@ naive
 warp-Go  
 ```javascript data-lang="java"  
 wget -N https://raw.githubusercontent.com/fscarmen/warp/main/warp-go.sh && bash warp-go.sh`  
-
+```
 
 甲骨文保活  
 ```curl -L https://gitlab.com/spiritysdx/Oracle-server-keep-alive-script/-/raw/main/oalive.sh -o oalive.sh && chmod +x oalive.sh && bash oalive.sh`  ```
@@ -83,5 +83,4 @@ passwd root
 你好
 ```javascript data-lang="java"
 123
-```
 
