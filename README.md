@@ -56,7 +56,9 @@ naive
 
 ## 3.warp  
 [一键WARP脚本]  https://gitlab.com/rwkgyg/CFwarp  
-`wget -N --no-check-certificate https://gitlab.com/rwkgyg/cfwarp/raw/main/CFwarp.sh && bash CFwarp.sh`  
+```
+wget -N --no-check-certificate https://gitlab.com/rwkgyg/cfwarp/raw/main/CFwarp.sh && bash CFwarp.sh
+``` 
 
 
 [fscarmen 一键脚本]   (https://github.com/fscarmen/warp)  
@@ -78,7 +80,9 @@ curl -L https://gitlab.com/spiritysdx/Oracle-server-keep-alive-script/-/raw/main
 wget http://download.bt.cn/install/bt-uninstall.sh
 ```  
 
-```sh bt-uninstall.sh``` 
+```
+sh bt-uninstall.sh
+``` 
 
 修改root密码  
 ```javascript data-lang="java"
