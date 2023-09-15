@@ -74,9 +74,9 @@ curl -L https://gitlab.com/spiritysdx/Oracle-server-keep-alive-script/-/raw/main
 ```
 
 宝塔卸载脚本  
-`wget http://download.bt.cn/install/bt-uninstall.sh`  
+```wget http://download.bt.cn/install/bt-uninstall.sh```  
 
-`sh bt-uninstall.sh`  
+```sh bt-uninstall.sh``` 
 
 修改root密码  
 ```javascript data-lang="java"
