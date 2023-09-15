@@ -108,5 +108,4 @@ passwd root
 ```
 [百度一下] [1]
 [1] [www.bnaidu.com]
-123
 
