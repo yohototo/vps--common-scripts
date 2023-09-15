@@ -2,23 +2,39 @@
 （新手向）常用的vpn配置脚本和测试脚本Commonly used VPN configuration scripts and test scripts  
 
 ## 1.测试脚本   
-```wget -qO- bench.sh | bash```  
+```
+wget -qO- bench.sh | bash
+```  
 或者  
-`curl -Lso- bench.sh | bash`  
+```
+curl -Lso- bench.sh | bash
+```
 #### 综合工具箱  
-```wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/box.sh && chmod +x box.sh && clear && ./box.sh```  
+```
+wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/box.sh && chmod +x box.sh && clear && ./box.sh
+```  
 #### ARM版本  
-`wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/armbox.sh && chmod +x box.sh && clear && ./box.sh`  
+```
+wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/armbox.sh && chmod +x box.sh && clear && ./box.sh
+```  
 
 融合怪测试脚本  
-`bash <(wget -qO- --no-check-certificate https://gitlab.com/spiritysdx/za/-/raw/main/ecs.sh)`  
-`bash <(wget -qO- --no-check-certificate https://github.com/spiritLHLS/ecs/raw/main/ecs.sh)`  
+```
+bash <(wget -qO- --no-check-certificate https://gitlab.com/spiritysdx/za/-/raw/main/ecs.sh)
+```  
+```
+bash <(wget -qO- --no-check-certificate https://github.com/spiritLHLS/ecs/raw/main/ecs.sh)
+```  
 
 懒人脚本  
-`wget -N --no-check-certificate https://raw.githubusercontent.com/veip007/hj/master/hj.sh && chmod +x hj.sh && bash hj.sh`  
+```
+wget -N --no-check-certificate https://raw.githubusercontent.com/veip007/hj/master/hj.sh && chmod +x hj.sh && bash hj.sh
+```  
 
 BBR脚本  
-`wget -N --no-check-certificate "https://raw.githubusercontent.com/mn-s/Linux-NetSpeed-2/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh`  
+```
+wget -N --no-check-certificate "https://raw.githubusercontent.com/mn-s/Linux-NetSpeed-2/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+```  
 
 御坂工具箱  
 `wget -N https://cdn.jsdelivr.net/gh/ednovas/vpstoolbox@main/ednovastool.sh && chmod +x ednovastool.sh && ./ednovastool.sh`  
@@ -36,7 +52,7 @@ ipv6
 ```
 wget --no-cache -O lkl-haproxy.sh https://github.com/mzz2017/lkl-haproxy/raw/master/lkl-haproxy.sh && bash lkl-haproxy.sh
 ```  
-1.[ovzbbr] [1]
+1.[魔改版bbr] [1]
 [1] [https://github.com/tcp-nanqinlang/wiki/wiki/lkl-haproxy]
 
 X-UI安装脚本  
