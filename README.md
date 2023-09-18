@@ -80,7 +80,10 @@ wget -N --no-check-certificate https://gitlab.com/rwkgyg/cfwarp/raw/main/CFwarp.
 
 
 [fscarmen 一键脚本]   (https://github.com/fscarmen/warp)  
- - 首次运行 `wget -N https://raw.githubusercontent.com/fscarmen/warp/main/menu.sh && bash menu.sh`  
+ - 首次运行
+ ```
+ wget -N https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh && bash menu.sh
+   ```  
  - 日常维护 warp
 
 warp-Go  
