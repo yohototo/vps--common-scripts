@@ -89,9 +89,9 @@ wget -N --no-check-certificate https://gitlab.com/rwkgyg/cfwarp/raw/main/CFwarp.
  wget -N https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh && bash menu.sh
    ```  
  - 日常维护
-   ```
-   warp
-   ```
+```
+warp
+```
 
 warp-Go  
 ```javascript data-lang="java"  
