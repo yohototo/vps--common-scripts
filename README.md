@@ -66,11 +66,15 @@ hy脚本
 `wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/acme-script/main/acme.sh && bash acme.sh`  
 
 TUIC  
-`wget -N https://gitlab.com/rwkgyg/tuic-yg/raw/main/tuic.sh && bash tuic.sh`  
+```
+wget -N https://gitlab.com/rwkgyg/tuic-yg/raw/main/tuic.sh && bash tuic.sh
+```  
 
 
 naive  
-`wget -N https://gitlab.com/rwkgyg/naiveproxy-yg/raw/main/naiveproxy.sh && bash naiveproxy.sh`  
+```
+wget -N https://gitlab.com/rwkgyg/naiveproxy-yg/raw/main/naiveproxy.sh && bash naiveproxy.sh
+```  
 
 ## 3.warp  
 [一键WARP脚本]  https://gitlab.com/rwkgyg/CFwarp  
@@ -84,7 +88,10 @@ wget -N --no-check-certificate https://gitlab.com/rwkgyg/cfwarp/raw/main/CFwarp.
  ```
  wget -N https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh && bash menu.sh
    ```  
- - 日常维护 warp
+ - 日常维护
+   ```
+   warp
+   ```
 
 warp-Go  
 ```javascript data-lang="java"  
