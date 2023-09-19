@@ -43,10 +43,18 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/mn-s/Linux-Net
 ## 2.VPN搭建  
 Make-A xray脚本  
 [八合一]  https://github.com/mack-a/v2ray-agent  （DD脚本）  
-`wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh`    
-`wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/reeceyng/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh`  
+```
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+```    
+
+```
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/reeceyng/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+```
+  
 ipv6  
-`wget -N https://gitlab.com/rwkgyg/v2ray-agent/raw/master/install.sh && bash install.sh`  
+```
+wget -N https://gitlab.com/rwkgyg/v2ray-agent/raw/master/install.sh && bash install.sh
+```  
 
 魔改BBR（openVZ）https://github.com/tcp-nanqinlang/wiki/wiki/lkl-haproxy  
 ```
@@ -64,7 +72,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 ```   
 
 hy1脚本  
-[hyteria](https://www.v2rayssr.com/hysteria.html)  
+[hihy安装脚本] https://www.v2rayssr.com/hysteria.html  
 ```
 bash <(curl -fsSL https://git.io/hysteria.sh)
 ```
@@ -91,13 +99,13 @@ wget -N https://gitlab.com/rwkgyg/naiveproxy-yg/raw/main/naiveproxy.sh && bash n
 wget -O nf https://github.com/sjlleo/netflix-verify/releases/download/v3.1.0/nf_linux_amd64 && chmod +x nf && ./nf
 ```
 
-[一键WARP脚本](https://gitlab.com/rwkgyg/CFwarp)  
+[一键WARP脚本]  https://gitlab.com/rwkgyg/CFwarp 
 ```
 wget -N --no-check-certificate https://gitlab.com/rwkgyg/cfwarp/raw/main/CFwarp.sh && bash CFwarp.sh
 ``` 
 
 
-[fscarmen 一键脚本](https://gitlab.com/fscarmen/warp)  
+[fscarmen 一键脚本]  https://gitlab.com/fscarmen/warp  
  - 首次运行
  ```
  wget -N https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh && bash menu.sh
