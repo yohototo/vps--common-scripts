@@ -37,8 +37,12 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/mn-s/Linux-Net
 ```  
 
 御坂工具箱  
-`wget -N https://cdn.jsdelivr.net/gh/ednovas/vpstoolbox@main/ednovastool.sh && chmod +x ednovastool.sh && ./ednovastool.sh`  
-`wget -P /root -N https://cdn.jsdelivr.net/gh/ednovas/vpstoolbox@main/ednovastool.sh && chmod +x ednovastool.sh && ./ednovastool.sh`  
+```
+wget -N https://cdn.jsdelivr.net/gh/ednovas/vpstoolbox@main/ednovastool.sh && chmod +x ednovastool.sh && ./ednovastool.sh
+```  
+```
+wget -P /root -N https://cdn.jsdelivr.net/gh/ednovas/vpstoolbox@main/ednovastool.sh && chmod +x ednovastool.sh && ./ednovastool.sh
+```  
 
 ## 2.VPN搭建  
 Make-A xray脚本  
