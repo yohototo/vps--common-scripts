@@ -55,15 +55,24 @@ wget --no-cache -O lkl-haproxy.sh https://github.com/mzz2017/lkl-haproxy/raw/mas
 
 
 X-UI安装脚本  
-`bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)`  
-`bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)`   一键分流  
+```
+bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+```
+一键分流 
+```
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+```   
 
-hy脚本  
-[hyteria]  https://www.v2rayssr.com/hysteria.html  
-`bash <(curl -fsSL https://git.io/hysteria.sh)`
+hy1脚本  
+[hyteria](https://www.v2rayssr.com/hysteria.html)  
+```
+bash <(curl -fsSL https://git.io/hysteria.sh)
+```
 
 本地证书申请  
-`wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/acme-script/main/acme.sh && bash acme.sh`  
+```
+wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/acme-script/main/acme.sh && bash acme.sh
+```  
 
 TUIC  
 ```
@@ -77,17 +86,22 @@ wget -N https://gitlab.com/rwkgyg/naiveproxy-yg/raw/main/naiveproxy.sh && bash n
 ```  
 
 ## 3.warp  
-[一键WARP脚本]  https://gitlab.com/rwkgyg/CFwarp  
+奈飞解锁检测
+```
+wget -O nf https://github.com/sjlleo/netflix-verify/releases/download/v3.1.0/nf_linux_amd64 && chmod +x nf && ./nf
+```
+
+[一键WARP脚本](https://gitlab.com/rwkgyg/CFwarp)  
 ```
 wget -N --no-check-certificate https://gitlab.com/rwkgyg/cfwarp/raw/main/CFwarp.sh && bash CFwarp.sh
 ``` 
 
 
-[fscarmen 一键脚本]   (https://github.com/fscarmen/warp)  
+[fscarmen 一键脚本](https://gitlab.com/fscarmen/warp)  
  - 首次运行
  ```
  wget -N https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh && bash menu.sh
-   ```  
+ ```  
  - 日常维护
 ```
 warp
