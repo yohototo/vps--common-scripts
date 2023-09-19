@@ -46,6 +46,7 @@ wget -P /root -N https://cdn.jsdelivr.net/gh/ednovas/vpstoolbox@main/ednovastool
 ```  
 
 ## 2.VPN搭建  
+---
 Make-A xray脚本  
 [八合一]  https://github.com/mack-a/v2ray-agent  （DD脚本）  
 ```
@@ -60,13 +61,13 @@ ipv6
 ```
 wget -N https://gitlab.com/rwkgyg/v2ray-agent/raw/master/install.sh && bash install.sh
 ```  
-
+---
 魔改BBR（openVZ）https://github.com/tcp-nanqinlang/wiki/wiki/lkl-haproxy  
 ```
 wget --no-cache -O lkl-haproxy.sh https://github.com/mzz2017/lkl-haproxy/raw/master/lkl-haproxy.sh && bash lkl-haproxy.sh
 ```  
 
-
+---
 X-UI安装脚本  
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
@@ -75,7 +76,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 ```   
-
+---
 hy1脚本  
 [hihy安装脚本] https://www.v2rayssr.com/hysteria.html  
 ```
@@ -103,7 +104,7 @@ wget -N https://gitlab.com/rwkgyg/naiveproxy-yg/raw/main/naiveproxy.sh && bash n
 ```
 wget -O nf https://github.com/sjlleo/netflix-verify/releases/download/v3.1.0/nf_linux_amd64 && chmod +x nf && ./nf
 ```
-
+---
 [一键WARP脚本]  https://gitlab.com/rwkgyg/CFwarp 
 ```
 wget -N --no-check-certificate https://gitlab.com/rwkgyg/cfwarp/raw/main/CFwarp.sh && bash CFwarp.sh
@@ -124,7 +125,7 @@ warp-Go
 ```javascript data-lang="java"  
 wget -N https://raw.githubusercontent.com/fscarmen/warp/main/warp-go.sh && bash warp-go.sh`  
 ```
-
+---
 甲骨文保活  
 ```javascript data-lang="java"  
 curl -L https://gitlab.com/spiritysdx/Oracle-server-keep-alive-script/-/raw/main/oalive.sh -o oalive.sh && chmod +x oalive.sh && bash oalive.sh`
