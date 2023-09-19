@@ -9,6 +9,7 @@ wget -qO- bench.sh | bash
 ```
 curl -Lso- bench.sh | bash
 ```
+---
 #### 综合工具箱  
 ```
 wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/box.sh && chmod +x box.sh && clear && ./box.sh
@@ -17,7 +18,7 @@ wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/box.sh &
 ```
 wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/armbox.sh && chmod +x box.sh && clear && ./box.sh
 ```  
-
+---
 融合怪测试脚本  
 ```
 bash <(wget -qO- --no-check-certificate https://gitlab.com/spiritysdx/za/-/raw/main/ecs.sh)
