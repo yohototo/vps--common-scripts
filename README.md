@@ -60,7 +60,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/reece
 ipv6  
 ```
 wget -N https://gitlab.com/rwkgyg/v2ray-agent/raw/master/install.sh && bash install.sh
-```  
+```
 ---
 魔改BBR（openVZ）https://github.com/tcp-nanqinlang/wiki/wiki/lkl-haproxy  
 ```
