@@ -83,7 +83,18 @@ hy1脚本
 bash <(curl -fsSL https://git.io/hysteria.sh)
 ```
 
-本地证书申请
+TUIC  
+```
+wget -N https://gitlab.com/rwkgyg/tuic-yg/raw/main/tuic.sh && bash tuic.sh
+```  
+
+
+naive  
+```
+wget -N https://gitlab.com/rwkgyg/naiveproxy-yg/raw/main/naiveproxy.sh && bash naiveproxy.sh
+```
+---
+本地证书申请  
 misaka
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/acme-script/main/acme.sh && bash acme.sh
@@ -96,18 +107,7 @@ ygkkk
 ```
 wget -N https://gitlab.com/rwkgyg/acme-script/raw/main/acme.sh && bash acme.sh
 ```
-
-
-TUIC  
-```
-wget -N https://gitlab.com/rwkgyg/tuic-yg/raw/main/tuic.sh && bash tuic.sh
-```  
-
-
-naive  
-```
-wget -N https://gitlab.com/rwkgyg/naiveproxy-yg/raw/main/naiveproxy.sh && bash naiveproxy.sh
-```  
+---
 
 ## 3.warp  
 奈飞解锁检测
