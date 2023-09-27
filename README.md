@@ -173,7 +173,11 @@ passwd root
 [百度一下]:https://www.baidu.com 
 
 2.[Google](https://www.google.com)
-  
+
+甲骨文保活
+```
+curl -L https://gitlab.com/spiritysdx/Oracle-server-keep-alive-script/-/raw/main/oalive.sh -o oalive.sh && chmod +x oalive.sh && bash oalive.sh
+```
 # 1
 ## 2
 ### 3
