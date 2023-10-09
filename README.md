@@ -13,6 +13,7 @@ curl -Lso- bench.sh | bash
 ```
 bash <(wget -qO- bash.spiritlhl.net/ecs-cn)
 ```
+或
 ```
 bash <(wget -qO- --no-check-certificate https://github.com/spiritLHLS/ecsspeed/raw/main/script/ecsspeed-cn.sh)
 ```
