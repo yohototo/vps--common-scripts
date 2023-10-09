@@ -10,11 +10,16 @@ wget -qO- bench.sh | bash
 curl -Lso- bench.sh | bash
 ```
 #### 测速脚本
-bash <(wget -qO- bash.spiritlhl.net/ecs-cn)  
-bash <(wget -qO- --no-check-certificate https://github.com/spiritLHLS/ecsspeed/raw/main/script/ecsspeed-cn.sh)  
+```
+bash <(wget -qO- bash.spiritlhl.net/ecs-cn)
+```
+```
+bash <(wget -qO- --no-check-certificate https://github.com/spiritLHLS/ecsspeed/raw/main/script/ecsspeed-cn.sh)
+```
 国内用
+```
 bash <(wget -qO- --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.com/spiritLHLS/ecsspeed/main/script/ecsspeed-cn.sh)
-
+```
 ---
 #### 综合工具箱  
 ```
