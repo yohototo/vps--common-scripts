@@ -57,7 +57,12 @@ wget -N https://cdn.jsdelivr.net/gh/ednovas/vpstoolbox@main/ednovastool.sh && ch
 wget -P /root -N https://cdn.jsdelivr.net/gh/ednovas/vpstoolbox@main/ednovastool.sh && chmod +x ednovastool.sh && ./ednovastool.sh
 ```  
 
-## 2.VPN搭建  
+## 2.VPN搭建 
+---
+[fscarmen sing-box 全家桶](https://github.com/fscarmen/sing-box)
+```
+bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-box.sh)
+```
 ---
 Make-A xray脚本  
 [八合一]  https://github.com/mack-a/v2ray-agent  （DD脚本）  
