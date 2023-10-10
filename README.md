@@ -64,8 +64,7 @@ wget -P /root -N https://cdn.jsdelivr.net/gh/ednovas/vpstoolbox@main/ednovastool
 bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-box.sh)
 ```
 ---
-Make-A xray脚本  
-[八合一]  https://github.com/mack-a/v2ray-agent  （DD脚本）  
+[Make-A xray脚本八合一（DD脚本）](https://github.com/mack-a/v2ray-agent)  
 ```
 wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```    
