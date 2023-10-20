@@ -1,7 +1,7 @@
 # vps-common-scripts
 （新手向）常用的vpn配置脚本和测试脚本Commonly used VPN configuration scripts and test scripts  
 - [1.测试脚本](#1.测试脚本)
-- [2.VPN搭建](#2.VPN搭建)
+- [2.VPN搭建](#2VPN搭建)
 - [3.warp](#3.warp)
 
 ## <a id="1.测试脚本"></a> ## 1.测试脚本   
