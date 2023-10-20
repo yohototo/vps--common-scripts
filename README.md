@@ -2,7 +2,7 @@
 （新手向）常用的vpn配置脚本和测试脚本Commonly used VPN configuration scripts and test scripts  
 - [1.测试脚本](#1.测试脚本)
 - [2.Vpn搭建](#2.Vpn搭建)
-- [3.warp](#3.warp)
+- [3.Warp](#3.Warp)
 
 
 ## <a id="1.测试脚本"></a> 
@@ -139,8 +139,8 @@ ygkkk
 wget -N https://gitlab.com/rwkgyg/acme-script/raw/main/acme.sh && bash acme.sh
 ```
 ---
-## <a id="3.warp"></a>
-## 3.warp  
+## <a id="3.Warp"></a>
+## 3.Warp  
 奈飞解锁检测
 ```
 wget -O nf https://github.com/sjlleo/netflix-verify/releases/download/v3.1.0/nf_linux_amd64 && chmod +x nf && ./nf
