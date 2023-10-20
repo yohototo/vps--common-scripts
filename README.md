@@ -4,6 +4,8 @@
 - [2.VPN搭建](#2.VPN搭建)
 - [3.warp](#3.warp)
 
+
+## <a id="1.测试脚本"></a> 
 ## 1.测试脚本   
 ```
 wget -qO- bench.sh | bash
