@@ -61,8 +61,9 @@ wget -N https://cdn.jsdelivr.net/gh/ednovas/vpstoolbox@main/ednovastool.sh && ch
 ```
 wget -P /root -N https://cdn.jsdelivr.net/gh/ednovas/vpstoolbox@main/ednovastool.sh && chmod +x ednovastool.sh && ./ednovastool.sh
 ```
+
+## 2.VPN搭建
 ## <a id="2.VPN搭建"></a> 
-## 2.VPN搭建  
 ---
 [fscarmen sing-box 全家桶](https://github.com/fscarmen/sing-box)
 ```
