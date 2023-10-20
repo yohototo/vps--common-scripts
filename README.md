@@ -63,6 +63,10 @@ wget -P /root -N https://cdn.jsdelivr.net/gh/ednovas/vpstoolbox@main/ednovastool
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-box.sh)
 ```
+[hy2一键 misaka](https://blog.misaka.rest/2023/09/02/hysteria2-script/)
+```
+wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/hysteria-install/main/hy2/hysteria.sh && bash hysteria.sh
+```
 ---
 [Make-A xray脚本八合一（DD脚本）](https://github.com/mack-a/v2ray-agent)  
 ```
