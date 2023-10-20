@@ -1,7 +1,8 @@
 # vps-common-scripts
 （新手向）常用的vpn配置脚本和测试脚本Commonly used VPN configuration scripts and test scripts  
+- [1.测试脚本](#1.测试脚本)
 
-## 1.测试脚本   
+## <a id="1.测试脚本"></a> ## 1.测试脚本   
 ```
 wget -qO- bench.sh | bash
 ```  
