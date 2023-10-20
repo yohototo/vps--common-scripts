@@ -1,6 +1,8 @@
 # vps-common-scripts
 （新手向）常用的vpn配置脚本和测试脚本Commonly used VPN configuration scripts and test scripts  
 - [1.测试脚本](#1.测试脚本)
+- [2.VPN搭建](#2.VPN搭建)
+- [3.warp](#3.warp)
 
 ## <a id="1.测试脚本"></a> ## 1.测试脚本   
 ```
@@ -57,7 +59,7 @@ wget -N https://cdn.jsdelivr.net/gh/ednovas/vpstoolbox@main/ednovastool.sh && ch
 ```
 wget -P /root -N https://cdn.jsdelivr.net/gh/ednovas/vpstoolbox@main/ednovastool.sh && chmod +x ednovastool.sh && ./ednovastool.sh
 ```  
-
+## <a id="2.VPN搭建"></a>
 ## 2.VPN搭建 
 ---
 [fscarmen sing-box 全家桶](https://github.com/fscarmen/sing-box)
@@ -134,7 +136,7 @@ ygkkk
 wget -N https://gitlab.com/rwkgyg/acme-script/raw/main/acme.sh && bash acme.sh
 ```
 ---
-
+## <a id="3.warp"></a>
 ## 3.warp  
 奈飞解锁检测
 ```
