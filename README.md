@@ -73,6 +73,15 @@ bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-b
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/hysteria-install/main/hy2/hysteria.sh && bash hysteria.sh
 ```
+[hy1一键](https://github.com/Misaka-blog/hysteria-install)
+```
+wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/hysteria-install/main/hy1/hysteria.sh && bash hysteria.sh
+```
+[hihy](https://github.com/emptysuns/Hi_Hysteria)
+```
+su - root #switch to root user.
+bash <(curl -fsSL https://git.io/hysteria.sh)
+```
 ---
 [Make-A xray脚本八合一（DD脚本）](https://github.com/mack-a/v2ray-agent)  
 ```
