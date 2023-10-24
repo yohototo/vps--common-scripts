@@ -158,7 +158,7 @@ wget -N https://gitlab.com/rwkgyg/acme-script/raw/main/acme.sh && bash acme.sh
 wget -O nf https://github.com/sjlleo/netflix-verify/releases/download/v3.1.0/nf_linux_amd64 && chmod +x nf && ./nf
 ```
 ---
-[原版p3tex](https://github.com/P3TERX/warp.sh)  
+[p3tex](https://github.com/P3TERX/warp.sh)  
 ```
 bash <(curl -fsSL git.io/warp.sh) install
 ```
@@ -166,13 +166,13 @@ bash <(curl -fsSL git.io/warp.sh) install
 bash <(curl -fsSL git.io/warp.sh) menu
 ```
 
-[一键WARP脚本]  https://gitlab.com/rwkgyg/CFwarp 
+[一键WARP脚本](https://gitlab.com/rwkgyg/CFwarp） 
 ```
 wget -N --no-check-certificate https://gitlab.com/rwkgyg/cfwarp/raw/main/CFwarp.sh && bash CFwarp.sh
 ``` 
 
 
-[fscarmen 一键脚本]  https://gitlab.com/fscarmen/warp  
+[fscarmen 一键脚本](https://gitlab.com/fscarmen/warp)  
  - 首次运行
  ```
  wget -N https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh && bash menu.sh
@@ -191,6 +191,10 @@ wget -N https://raw.githubusercontent.com/fscarmen/warp/main/warp-go.sh && bash 
 ```javascript data-lang="java"  
 curl -L https://gitlab.com/spiritysdx/Oracle-server-keep-alive-script/-/raw/main/oalive.sh -o oalive.sh && chmod +x oalive.sh && bash oalive.sh`
 ```
+[甲骨文保活脚本](https://gitlab.com/spiritysdx/Oracle-server-keep-alive-script)
+```
+curl -L https://gitlab.com/spiritysdx/Oracle-server-keep-alive-script/-/raw/main/oalive.sh -o oalive.sh && chmod +x oalive.sh && bash oalive.sh
+```
 
 宝塔卸载脚本  
 ```
@@ -205,17 +209,14 @@ sh bt-uninstall.sh
 ```javascript data-lang="java"
 passwd root
 ```
-  
+---  
 1.[百度一下]
 
 [百度一下]:https://www.baidu.com 
 
 2.[Google](https://www.google.com)
 
-甲骨文保活
-```
-curl -L https://gitlab.com/spiritysdx/Oracle-server-keep-alive-script/-/raw/main/oalive.sh -o oalive.sh && chmod +x oalive.sh && bash oalive.sh
-```
+
 # 1
 ## 2
 ### 3
