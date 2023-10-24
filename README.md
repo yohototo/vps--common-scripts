@@ -166,7 +166,7 @@ bash <(curl -fsSL git.io/warp.sh) install
 bash <(curl -fsSL git.io/warp.sh) menu
 ```
 
-[一键WARP脚本](https://gitlab.com/rwkgyg/CFwarp） 
+[一键WARP脚本](https://gitlab.com/rwkgyg/CFwarp) 
 ```
 wget -N --no-check-certificate https://gitlab.com/rwkgyg/cfwarp/raw/main/CFwarp.sh && bash CFwarp.sh
 ``` 
