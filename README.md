@@ -151,8 +151,8 @@ ygkkk
 wget -N https://gitlab.com/rwkgyg/acme-script/raw/main/acme.sh && bash acme.sh
 ```
 ---
-## <a id="3.Warp"></a>
-## 3.warp  
+## <a id="3.warp"></a>
+## 3.WARP  
 奈飞解锁检测
 ```
 wget -O nf https://github.com/sjlleo/netflix-verify/releases/download/v3.1.0/nf_linux_amd64 && chmod +x nf && ./nf
@@ -183,7 +183,7 @@ warp
 ```
 
 warp-Go  
-```javascript data-lang="java"  
+```javascript data-lang="python"  
 wget -N https://raw.githubusercontent.com/fscarmen/warp/main/warp-go.sh && bash warp-go.sh`  
 ```
 ---
