@@ -116,9 +116,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 ```   
 ---
 hy1脚本  
-[hihy安装脚本] https://www.v2rayssr.com/hysteria.html  
+[Yg hy] (https://gitlab.com/rwkgyg/hysteria-yg) 
 ```
-bash <(curl -fsSL https://git.io/hysteria.sh)
+wget -N https://gitlab.com/rwkgyg/hysteria-yg/raw/main/hysteria.sh && bash hysteria.sh
 ```
 
 TUIC  
