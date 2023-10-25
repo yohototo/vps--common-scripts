@@ -87,17 +87,17 @@ bash <(curl -fsSL https://git.io/hysteria.sh)
 ```
 wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```    
-
 ```
 wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/reeceyng/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
-[Argo + Xray](https://github.com/fscarmen/argox#argox-for-vps-%E8%BF%90%E8%A1%8C%E8%84%9A%E6%9C%AC)
-```
-bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/argox/main/argox.sh)
-```  
 ipv6  
 ```
 wget -N https://gitlab.com/rwkgyg/v2ray-agent/raw/master/install.sh && bash install.sh
+```
+---
+[Argo + Xray](https://github.com/fscarmen/argox#argox-for-vps-%E8%BF%90%E8%A1%8C%E8%84%9A%E6%9C%AC)
+```
+bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/argox/main/argox.sh)
 ```
 ---
 魔改BBR（openVZ）https://github.com/tcp-nanqinlang/wiki/wiki/lkl-haproxy  
