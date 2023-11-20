@@ -61,6 +61,14 @@ wget -N https://cdn.jsdelivr.net/gh/ednovas/vpstoolbox@main/ednovastool.sh && ch
 ```
 wget -P /root -N https://cdn.jsdelivr.net/gh/ednovas/vpstoolbox@main/ednovastool.sh && chmod +x ednovastool.sh && ./ednovastool.sh
 ```
+证书申请脚本one55
+```
+wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/acme-script/main/acme.sh && bash acme.sh
+mikasa
+```
+```
+1243e4287b4538a6670134f7c03669fb01
+```
 
 ## <a id="2.vpn搭建"></a> 
 ## 2.VPN搭建
