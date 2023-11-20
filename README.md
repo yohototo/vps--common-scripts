@@ -3,7 +3,7 @@
 - [1.测试脚本](#1.测试脚本)
 - [2.vpn搭建](#2.vpn搭建)
 - [3.warp](#3.warp)
-- [4.客户端UI备份](#4.客户端UI)
+- [4.UI客户端备份](#4.UI客户端备份)
 
 ## <a id="1.测试脚本"></a> 
 ## 1.测试脚本   
@@ -210,8 +210,8 @@ sh bt-uninstall.sh
 passwd root
 ```
 ---  
-## <a id="4.客户端UI"></a>   
-## 4.客户端UI   
+## <a id="4.UI客户端备份"></a>   
+## 4.UI客户端备份   
 [v2rayN 备份](https://github.com/yohototo/v2rayN-backup)  
 [Clash Verge 备份](https://github.com/yohototo/clash-verge-1.3.6-backup)  
 [Nekoray 备份](https://github.com/yohototo/Backup-nekoray)  
