@@ -14,10 +14,12 @@ wget -qO- bench.sh | bash
 ```
 curl -Lso- bench.sh | bash
 ```
-#### 测速脚本
+#### 测速脚本  
+纯测速脚本
 ```
 wget -qO- --no-check-certificate https://raw.githubusercontent.com/oooldking/script/master/superbench.sh | bash
 ```
+---
 ```
 bash <(wget -qO- bash.spiritlhl.net/ecs-cn)
 ```
