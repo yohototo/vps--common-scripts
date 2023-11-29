@@ -200,9 +200,9 @@ warp-Go
 wget -N https://raw.githubusercontent.com/fscarmen/warp/main/warp-go.sh && bash warp-go.sh`  
 ```
 ---
-甲骨文保活  
+甲骨文保活（oracle alive）  
 ```javascript data-lang="java"  
-curl -L https://gitlab.com/spiritysdx/Oracle-server-keep-alive-script/-/raw/main/oalive.sh -o oalive.sh && chmod +x oalive.sh && bash oalive.sh`
+curl -L https://gitlab.com/spiritysdx/Oracle-server-keep-alive-script/-/raw/main/oalive.sh -o oalive.sh && chmod +x oalive.sh && bash oalive.sh
 ```
 [甲骨文保活脚本](https://gitlab.com/spiritysdx/Oracle-server-keep-alive-script)
 ```
