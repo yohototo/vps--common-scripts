@@ -85,10 +85,16 @@ mikasa
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-box.sh)
 ```
+[甬哥sing-box 四协议共存](https://github.com/yonggekkk/sing-box_hysteria2_tuic_argo_reality)
+```
+bash <(curl -Ls https://gitlab.com/rwkgyg/sing-box-yg/raw/main/sb.sh)
+```
+
 [hy2一键 misaka](https://blog.misaka.rest/2023/09/02/hysteria2-script/)
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/hysteria-install/main/hy2/hysteria.sh && bash hysteria.sh
 ```
+
 [hy1一键](https://github.com/Misaka-blog/hysteria-install)
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/hysteria-install/main/hy1/hysteria.sh && bash hysteria.sh
@@ -165,6 +171,17 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/CCCOrz/auto-acm
 ygkkk
 ```
 wget -N https://gitlab.com/rwkgyg/acme-script/raw/main/acme.sh && bash acme.sh
+```
+(证书路径)
+```
+/root/cert.crt
+```
+```
+/root/private.key
+```
+
+```
+/etc/v2ray-agent/tls/
 ```
 ---
 ## <a id="3.warp"></a>
