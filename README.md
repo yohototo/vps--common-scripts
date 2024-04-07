@@ -159,20 +159,24 @@ wget -N https://gitlab.com/rwkgyg/naiveproxy-yg/raw/main/naiveproxy.sh && bash n
 wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/naiveproxy-script/main/naiveproxy.sh && bash naiveproxy.sh
 ```
 ---
+  
 本地证书申请  
-misaka
+(misaka)[https://gitlab.com/Misaka-blog/acme-script]
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/acme-script/main/acme.sh && bash acme.sh
 ```
+  
 api
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/CCCOrz/auto-acme/main/acme.sh && bash acme.sh
 ```
-ygkkk
+  
+(ygkkk)[https://github.com/yonggekkk/acme-yg]
 ```
 wget -N https://gitlab.com/rwkgyg/acme-script/raw/main/acme.sh && bash acme.sh
 ```
-(证书路径)
+  
+证书路径
 ```
 /root/cert.crt
 ```
