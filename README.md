@@ -166,9 +166,13 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/nai
 wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/acme-script/main/acme.sh && bash acme.sh
 ```
   
-api
+CCCorz api
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/CCCOrz/auto-acme/main/acme.sh && bash acme.sh
+```
+证书路径
+```
+/root/cert_hax2.yohototo.top/
 ```
   
 [ygkkk](https://github.com/yonggekkk/acme-yg)
