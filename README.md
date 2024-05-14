@@ -252,17 +252,20 @@ sh bt-uninstall.sh
 ```javascript data-lang="java"
 passwd root
 ```
-DD脚本
-## Download:
+### DD脚本
+#### Download:
 <pre><code>wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubusercontent.com/leitbogioro/Tools/master/Linux_reinstall/InstallNET.sh' && chmod a+x InstallNET.sh</code></pre>
 Servers in mainland of China:
 <pre><code>wget --no-check-certificate -qO InstallNET.sh 'https://gitee.com/mb9e8j2/Tools/raw/master/Linux_reinstall/InstallNET.sh' && chmod a+x InstallNET.sh</code></pre>
 
-## Quickly start
+#### Quickly start
 If you need to add other parameters, a certain name of distributions must be assigned!
-### Debian 12
+##### Debian 12
 <pre><code>bash InstallNET.sh -debian</code></pre>  
-
+#### Ubuntu 22.04
+<pre><code>bash InstallNET.sh -ubuntu</code></pre>
+#### Windows 11 Pro for Workstations
+<pre><code>bash InstallNET.sh -windows</code></pre>
 ---  
 ## <a id="4.UI客户端备份"></a>   
 ## 4.UI客户端备份   
