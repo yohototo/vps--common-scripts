@@ -267,15 +267,15 @@ If you need to add other parameters, a certain name of distributions must be ass
 #### Windows 11 Pro for Workstations
 <pre><code>bash InstallNET.sh -windows</code></pre>
 ---  
-## <a id="4.UI客户端备份"></a>   
-## 4.UI客户端备份   
+## <a id="4.客户端备份"></a>   
+## 4.客户端备份   
 [v2rayN 备份](https://github.com/yohototo/v2rayN-backup)  
 [Clash Verge 备份](https://github.com/yohototo/clash-verge-1.3.6-backup)  
 [Nekoray 备份](https://github.com/yohototo/Backup-nekoray)  
 [Nekoray for Android备份](https://github.com/yohototo/Backup-NekoBoxForAndroid/releases/tag/1.2.9)
 
 
-#- [1.测试脚本](#1.测试脚本)
+# [1.测试脚本](#1.测试脚本)
   
 1.[百度一下]
 
