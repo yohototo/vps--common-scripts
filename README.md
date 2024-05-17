@@ -134,13 +134,14 @@ X-UI安装脚本
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 ```  
-```
-bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
-```
-一键分流 
+一键分流  
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
-```   
+```
+旧版本  
+```
+bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+```  
 ---
 hy1脚本  
 [Yg hy] (https://gitlab.com/rwkgyg/hysteria-yg) 
