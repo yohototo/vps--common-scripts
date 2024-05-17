@@ -129,6 +129,11 @@ wget --no-cache -O lkl-haproxy.sh https://github.com/mzz2017/lkl-haproxy/raw/mas
 
 ---
 X-UI安装脚本  
+
+[3X-UI](https://github.com/MHSanaei/3x-ui/blob/main/README.zh.md)  
+```
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+```  
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ```
