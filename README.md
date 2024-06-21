@@ -77,6 +77,10 @@ mikasa
 ```
 1243e4287b4538a6670134f7c03669fb01
 ```
+CF api token
+```
+p1Au7JZY-UEvAql6qvhRWT4yi0MbzjP321TgbmnA
+```
 
 ## <a id="2.vpn搭建"></a> 
 ## 2.VPN搭建
