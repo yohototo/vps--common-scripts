@@ -123,12 +123,6 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/reece
 ```
 ```
 /root/.acme.sh/seaj.yohototo.rr.nu_ecc/seaj.yohototo.rr.nu.key
-```  证书路径
-```
-/root/.acme.sh/seaj.yohototo.rr.nu_ecc/seaj.yohototo.rr.nu.cer
-```
-```
-/root/.acme.sh/seaj.yohototo.rr.nu_ecc/seaj.yohototo.rr.nu.key
 ```  
 ipv6  
 ```
