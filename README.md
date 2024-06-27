@@ -110,6 +110,12 @@ bash <(curl -fsSL https://git.io/hysteria.sh)
 ```
 ---
 [Make-A xray脚本八合一（DD脚本）](https://github.com/mack-a/v2ray-agent)  
+证书路径
+```
+/root/.acme.sh/seaj.yohototo.rr.nu_ecc/seaj.yohototo.rr.nu.cer  
+/root/.acme.sh/seaj.yohototo.rr.nu_ecc/seaj.yohototo.rr.nu.key
+
+```
 ```
 wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```    
