@@ -4,6 +4,7 @@
 - [2.vpn搭建](#2.vpn搭建)
 - [3.warp](#3.warp)
 - [4.客户端备份](#4.客户端备份)
+- [5.Alist&小雅](#4.Alist&小雅)
 
 ## <a id="1.测试脚本"></a> 
 ## 1.测试脚本   
@@ -295,6 +296,21 @@ If you need to add other parameters, a certain name of distributions must be ass
 [Nekoray for Android备份](https://github.com/yohototo/Backup-NekoBoxForAndroid/releases/tag/1.2.9)
 
 
+## <a id="4.Alist&小雅"></a>
+## 5.Alist&小雅  
+#### Alist  
+```
+curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s install
+
+```
+update & uninstall 
+#### 小雅  
+```
+bash -c "$(curl --insecure -fsSL https://ddsrem.com/xiaoya_install.sh)"
+```
+
+
+
 # [1.测试脚本](#1.测试脚本)
   
 1.[百度一下]
@@ -312,5 +328,5 @@ If you need to add other parameters, a certain name of distributions must be ass
 ###### 6
 ####### 7
 
-666658588859klkl5959恐龙看烂 you are my only撒5589打水
+666658588859klkl
 
