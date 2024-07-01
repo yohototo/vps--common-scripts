@@ -298,13 +298,13 @@ If you need to add other parameters, a certain name of distributions must be ass
 
 ## <a id="5.Alist&小雅"></a>  
 ## 5.Alist&小雅  
-#### Alist  
+
+### Alist  
 ```
 curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s install
-
 ```
 update & uninstall 
-#### 小雅  
+### 小雅  
 ```
 bash -c "$(curl --insecure -fsSL https://ddsrem.com/xiaoya_install.sh)"
 ```
