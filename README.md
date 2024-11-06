@@ -81,6 +81,7 @@ mikasa
 CF api token
 ```
 p1Au7JZY-UEvAql6qvhRWT4yi0MbzjP321TgbmnA
+f30rw2CSE1697M2UKv4B181B--Y6X31_BACUY6ZF
 ```
 
 ## <a id="2.vpn搭建"></a> 
