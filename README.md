@@ -191,6 +191,14 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/nai
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/acme-script/main/acme.sh && bash acme.sh
 ```
+路径  
+```
+/root/cert.crt
+```
+```
+/root/private.key
+
+```
   
 CCCorz api
 ```
