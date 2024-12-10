@@ -281,6 +281,10 @@ sh bt-uninstall.sh
 ``` 
 
 修改root密码  
+
+```
+bash <(curl -sSL https://raw.githubusercontent.com/fscarmen/tools/main/root.sh)
+```
 ```javascript data-lang="java"
 passwd root
 ```
